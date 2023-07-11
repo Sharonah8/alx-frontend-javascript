@@ -1,1 +1,2 @@
-# alx-frontend-javascript
+Javascript basics
+# alx-frontend-for-fun
